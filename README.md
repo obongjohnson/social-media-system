@@ -12,7 +12,7 @@
 
 ![image file](C:\Users\Developer\Desktop\social media post\social-media-system\diagram.png)
 
-[click the link to download pdf file ] (file:///C:/Users/Developer/Desktop/social%20media%20post/social-media-system/diagram.pdf)
+[click the link to download pdf file ] (https://drive.google.com/file/d/1U7dJUDVJ5yo5GBaoPxnFY8BAkvTnEUbF/view?usp=drivesdk)
 
 
 
