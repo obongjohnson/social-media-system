@@ -10,10 +10,10 @@
 # **TASK 1b**
 # **UML CLASS DIAGRAM OF THE SYSTEM**
 
-[UML pdf file ] (Desktop\social media post\social-media-system\diagram.pdf)
+[UML pdf file ] (https://github.com/obongjohnson/developer/diagram.pdf)
 
 
 
 
 # **TASK 1c**
-[The system source file] (C:\Users\Developer\Desktop\social media post\social-media-system\index.js)
+[The system source file] (C:/Users/Developer/Desktop/social media post/social-media-system/index.js)
