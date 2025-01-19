@@ -10,10 +10,10 @@
 # **TASK 1b**
 # **UML CLASS DIAGRAM OF THE SYSTEM**
 
-![UML class diagram C:\Users\Developer\Desktop\social media post\social-media-system\UML diagram.jpg] (C:\Users\Developer\Desktop\social media post\social-media-system\UML diagram.jpg)
+![UML class diagram ] (social-media-system\UML diagram.jpg)
 
 
 
 
 # **TASK 1c**
-[The system source file C:\Users\Developer\Desktop\social media post\social-media-system\index.js] (C:\Users\Developer\Desktop\social media post\social-media-system\index.js)
+[The system source file] (C:\Users\Developer\Desktop\social media post\social-media-system\index.js)
