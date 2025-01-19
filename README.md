@@ -10,7 +10,7 @@
 # **TASK 1b**
 # **UML CLASS DIAGRAM OF THE SYSTEM**
 
-![UML class diagram ] (uml-diagram.jpg)
+![UML class diagram ] (uml-diagram.jpeg)
 
 
 
