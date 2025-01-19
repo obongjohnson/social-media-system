@@ -10,7 +10,7 @@
 # **TASK 1b**
 # **UML CLASS DIAGRAM OF THE SYSTEM**
 
-![UML class diagram ] (social-media-system\UML diagram.jpg)
+![UML class diagram ] (social-media-system\UML-diagram.jpg)
 
 
 
