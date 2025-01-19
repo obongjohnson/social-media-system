@@ -10,9 +10,9 @@
 # **TASK 1b**
 # **UML CLASS DIAGRAM OF THE SYSTEM**
 
-![image](C:\Users\Developer\Desktop\social media post\social-media-system\diagram.png)
+![image file](C:\Users\Developer\Desktop\social media post\social-media-system\diagram.png)
 
-[click the link to download pdf file ] (https://raw.github.com/obongjohnson/social-media-system/developer/social-media-system/diagram.pdf)
+[click the link to download pdf file ] (social-media-system/diagram.pdf)
 
 
 
